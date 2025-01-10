@@ -41,3 +41,8 @@ As you gather information from these resources, it is important to apply what yo
 
 Documentation and Reflection
 Throughout your project, keep notes on what you learn from each resource. Documenting your process not only helps reinforce your understanding but also serves as a valuable reference for future projects. Reflecting on your experiences can lead to insights that improve your skills and knowledge over time.
+
+**DIAGRAM**:
+![task 2](https://github.com/user-attachments/assets/1cec0e1d-7377-4caa-81fe-53f7ba159a71)
+
+**OUTPUT**:
